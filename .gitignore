@@ -1,0 +1,10 @@
+# Numerous always-ignore extensions
+*.war
+*.class
+
+# OS or Editor folders
+.project
+.settings
+.classpath
+target/
+.DS_Store
